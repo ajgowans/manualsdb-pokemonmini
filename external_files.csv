@@ -1,1 +1,7 @@
-Path in MiSTer, URL, Size in bytes (optional but recommended), MD5 Hash (optional but recommended), Filter Terms (optional)
+Path,URL,Size in bytes (optional but recommended),MD5 Hash (optional but recommended),Filter Terms (optional),Overwrite (optional),Comments (optional)
+docs/PokemonMini/Manuals/Pokemon Breeder Mini.pdf,https://archive.org/download/mister-manuals/2001_Pokemon%20Mini.zip/2001_Pokemon%20Mini%2FPokemon%20Breeder%20Mini.pdf,25313,226df3607fcb31931c60fff6ae7dec19,,,Pokemon Breeder Mini.pdf
+docs/PokemonMini/Manuals/Pokemon Party Mini.pdf,https://archive.org/download/mister-manuals/2001_Pokemon%20Mini.zip/2001_Pokemon%20Mini%2FPokemon%20Party%20Mini.pdf,3602826,9ff946b3b38cf2ad8b4401111470d775,,,Pokemon Party Mini.pdf
+docs/PokemonMini/Manuals/Pokemon Pinball Mini.pdf,https://archive.org/download/mister-manuals/2001_Pokemon%20Mini.zip/2001_Pokemon%20Mini%2FPokemon%20Pinball%20Mini.pdf,2208150,61357932edec2791686267bed027d6a9,,,Pokemon Pinball Mini.pdf
+docs/PokemonMini/Manuals/Pokemon Puzzle Collection .pdf,https://archive.org/download/mister-manuals/2001_Pokemon%20Mini.zip/2001_Pokemon%20Mini%2FPokemon%20Puzzle%20Collection%20.pdf,2233346,e3e5622a0f11986397be1fed5fef96df,,,Pokemon Puzzle Collection .pdf
+docs/PokemonMini/Manuals/Pokemon Puzzle Collection Vol. 2.pdf,https://archive.org/download/mister-manuals/2001_Pokemon%20Mini.zip/2001_Pokemon%20Mini%2FPokemon%20Puzzle%20Collection%20Vol.%202.pdf,20094,deebf23cf6b9f6767b25dfedb23f7dec,,,Pokemon Puzzle Collection Vol. 2.pdf
+docs/PokemonMini/Manuals/Pokemon Tetris.pdf,https://archive.org/download/mister-manuals/2001_Pokemon%20Mini.zip/2001_Pokemon%20Mini%2FPokemon%20Tetris.pdf,25523,fa2045f1623d8afc2fe04c78aaabca09,,,Pokemon Tetris.pdf
